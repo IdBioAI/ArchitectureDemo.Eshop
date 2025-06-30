@@ -1,0 +1,261 @@
+[
+  {
+    "Id": 1,
+    "Name": "Product name 1",
+    "ImgUri": "https://example.com/image1.jpg",
+    "Price": 345.67,
+    "Description": "Product description 1"
+  },
+  {
+    "Id": 2,
+    "Name": "Product name 2",
+    "ImgUri": "https://example.com/image2.jpg",
+    "Price": 1234,
+    "Description": "Product description 2"
+  },
+  {
+    "Id": 3,
+    "Name": "Product name 3",
+    "ImgUri": "https://example.com/image3.jpg",
+    "Price": 7890.99,
+    "Description": "Product description 3"
+  },
+  {
+    "Id": 4,
+    "Name": "Product name 4",
+    "ImgUri": "https://example.com/image4.jpg",
+    "Price": 5678,
+    "Description": "Product description 4"
+  },
+  {
+    "Id": 5,
+    "Name": "Product name 5",
+    "ImgUri": "https://example.com/image5.jpg",
+    "Price": 999.99,
+    "Description": "Product description 5"
+  },
+  {
+    "Id": 6,
+    "Name": "Product name 6",
+    "ImgUri": "https://example.com/image6.jpg",
+    "Price": 123,
+    "Description": "Product description 6"
+  },
+  {
+    "Id": 7,
+    "Name": "Product name 7",
+    "ImgUri": "https://example.com/image7.jpg",
+    "Price": 4567.89,
+    "Description": "Product description 7"
+  },
+  {
+    "Id": 8,
+    "Name": "Product name 8",
+    "ImgUri": "https://example.com/image8.jpg",
+    "Price": 2345,
+    "Description": "Product description 8"
+  },
+  {
+    "Id": 9,
+    "Name": "Product name 9",
+    "ImgUri": "https://example.com/image9.jpg",
+    "Price": 6789.50,
+    "Description": "Product description 9"
+  },
+  {
+    "Id": 10,
+    "Name": "Product name 10",
+    "ImgUri": "https://example.com/image10.jpg",
+    "Price": 3456,
+    "Description": "Product description 10"
+  },
+  {
+    "Id": 11,
+    "Name": "Product name 11",
+    "ImgUri": "https://example.com/image11.jpg",
+    "Price": 789,
+    "Description": "Product description 11"
+  },
+  {
+    "Id": 12,
+    "Name": "Product name 12",
+    "ImgUri": "https://example.com/image12.jpg",
+    "Price": 4321.99,
+    "Description": "Product description 12"
+  },
+  {
+    "Id": 13,
+    "Name": "Product name 13",
+    "ImgUri": "https://example.com/image13.jpg",
+    "Price": 8900,
+    "Description": "Product description 13"
+  },
+  {
+    "Id": 14,
+    "Name": "Product name 14",
+    "ImgUri": "https://example.com/image14.jpg",
+    "Price": 678.33,
+    "Description": "Product description 14"
+  },
+  {
+    "Id": 15,
+    "Name": "Product name 15",
+    "ImgUri": "https://example.com/image15.jpg",
+    "Price": 234,
+    "Description": "Product description 15"
+  },
+  {
+    "Id": 16,
+    "Name": "Product name 16",
+    "ImgUri": "https://example.com/image16.jpg",
+    "Price": 5678.90,
+    "Description": "Product description 16"
+  },
+  {
+    "Id": 17,
+    "Name": "Product name 17",
+    "ImgUri": "https://example.com/image17.jpg",
+    "Price": 910,
+    "Description": "Product description 17"
+  },
+  {
+    "Id": 18,
+    "Name": "Product name 18",
+    "ImgUri": "https://example.com/image18.jpg",
+    "Price": 345.00,
+    "Description": "Product description 18"
+  },
+  {
+    "Id": 19,
+    "Name": "Product name 19",
+    "ImgUri": "https://example.com/image19.jpg",
+    "Price": 7890.01,
+    "Description": "Product description 19"
+  },
+  {
+    "Id": 20,
+    "Name": "Product name 20",
+    "ImgUri": "https://example.com/image20.jpg",
+    "Price": 4567,
+    "Description": "Product description 20"
+  },
+  {
+    "Id": 21,
+    "Name": "Product name 21",
+    "ImgUri": "https://example.com/image21.jpg",
+    "Price": 1234.56,
+    "Description": "Product description 21"
+  },
+  {
+    "Id": 22,
+    "Name": "Product name 22",
+    "ImgUri": "https://example.com/image22.jpg",
+    "Price": 789,
+    "Description": "Product description 22"
+  },
+  {
+    "Id": 23,
+    "Name": "Product name 23",
+    "ImgUri": "https://example.com/image23.jpg",
+    "Price": 8900.99,
+    "Description": "Product description 23"
+  },
+  {
+    "Id": 24,
+    "Name": "Product name 24",
+    "ImgUri": "https://example.com/image24.jpg",
+    "Price": 6789,
+    "Description": "Product description 24"
+  },
+  {
+    "Id": 25,
+    "Name": "Product name 25",
+    "ImgUri": "https://example.com/image25.jpg",
+    "Price": 2345.67,
+    "Description": "Product description 25"
+  },
+  {
+    "Id": 26,
+    "Name": "Product name 26",
+    "ImgUri": "https://example.com/image26.jpg",
+    "Price": 100,
+    "Description": "Product description 26"
+  },
+  {
+    "Id": 27,
+    "Name": "Product name 27",
+    "ImgUri": "https://example.com/image27.jpg",
+    "Price": 4567,
+    "Description": "Product description 27"
+  },
+  {
+    "Id": 28,
+    "Name": "Product name 28",
+    "ImgUri": "https://example.com/image28.jpg",
+    "Price": 8900.50,
+    "Description": "Product description 28"
+  },
+  {
+    "Id": 29,
+    "Name": "Product name 29",
+    "ImgUri": "https://example.com/image29.jpg",
+    "Price": 4321,
+    "Description": "Product description 29"
+  },
+  {
+    "Id": 30,
+    "Name": "Product name 30",
+    "ImgUri": "https://example.com/image30.jpg",
+    "Price": 7890,
+    "Description": "Product description 30"
+  },
+  {
+    "Id": 31,
+    "Name": "Product name 31",
+    "ImgUri": "https://example.com/image31.jpg",
+    "Price": 567.89,
+    "Description": "Product description 31"
+  },
+  {
+    "Id": 32,
+    "Name": "Product name 32",
+    "ImgUri": "https://example.com/image32.jpg",
+    "Price": 3456,
+    "Description": "Product description 32"
+  },
+  {
+    "Id": 33,
+    "Name": "Product name 33",
+    "ImgUri": "https://example.com/image33.jpg",
+    "Price": 890,
+    "Description": "Product description 33"
+  },
+  {
+    "Id": 34,
+    "Name": "Product name 34",
+    "ImgUri": "https://example.com/image34.jpg",
+    "Price": 1234.78,
+    "Description": "Product description 34"
+  },
+  {
+    "Id": 35,
+    "Name": "Product name 35",
+    "ImgUri": "https://example.com/image35.jpg",
+    "Price": 789.45,
+    "Description": "Product description 35"
+  },
+  {
+    "Id": 36,
+    "Name": "Product name 36",
+    "ImgUri": "https://example.com/image36.jpg",
+    "Price": 6789,
+    "Description": "Product description 36"
+  },
+  {
+    "Id": 37,
+    "Name": "Product name 37",
+    "ImgUri": "https://example.com/image37.jpg",
+    "Price": 345.67,
+    "Description": "Product description 37"
+  }
+]
