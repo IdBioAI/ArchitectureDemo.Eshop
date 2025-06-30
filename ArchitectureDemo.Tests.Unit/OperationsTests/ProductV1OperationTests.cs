@@ -9,7 +9,7 @@ using ArchitectureDemo.DbContexts.Models;
 
 namespace ArchitectureDemo.Tests.Unit.OperationsTests
 {
-    public class ProductV1OperationTests : IClassFixture<BaseUnitTest>
+    public class ProductV1OperationTests
     {
         private readonly Mock<IProductRepository> productRepository;
         private readonly Mock<IUnitOfWork> unitOfWork;
