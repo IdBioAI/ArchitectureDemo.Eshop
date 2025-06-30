@@ -17,11 +17,6 @@ When the project is run in development mode, a web browser will automatically op
 5. Edit the connection strings in the appsettings files for both ArchitectureDemo.Tests.Unit and ArchitectureDemo.Web projects.
 6. Run the ArchitectureDemo.Web project.
 
-## Unit Testing with Mock or Database Data
-1. Switch between using mock or database data by modifying the "UseInMemoryDatabase" setting in appsettings.Development.json within the ArchitectureDemo.Tests.Unit project.
-2. Set the JSON file location for mock data in the BaseUnitTest.LoadMockData method (Sample data can be found in TestData/Products.json).
-3. Execute some tests.
-
 ## API Specification
 The project includes a total of four test endpoints: three for version 1.0 and one for version 2.0. Detailed documentation for these endpoints can be found in Swagger UI (accessible only in development mode).
 
